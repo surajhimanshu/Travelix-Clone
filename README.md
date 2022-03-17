@@ -1,8 +1,17 @@
+<h1 align="center">Welcome to Travelix 👋</h1>
+
 # Travelix-Clone
 This repository is for developing the Travelix clone.
 
+### ✨ [Demo](https://amanullah21.github.io/Travelix-Clone/)
+
+<br/>
 
 
+- This is a static clone of Travelix Website using HTML,CSS, & Javascript.
+- and it was made in 1 week.
+- The technologies used are used because they are beginner friendly and easy to use.
+- We made all the 6 pages of it.
 
 
 # What is Travelix?
@@ -76,6 +85,7 @@ If you have anu query related any think , you conect by these page .
 👤 **Suraj Himanshu**
 
 - Github: [Suraj Himanshu](https://github.com/surajhimanshu)
+- Linkedin: [Suraj Himanshu](https://www.linkedin.com/in/suraj-himanshu-9aa58215a/)
 
 👤 **Utkash Vaibhav**
 
