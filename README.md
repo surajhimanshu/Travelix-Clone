@@ -4,7 +4,7 @@
 Compare airline flight tickets flying to your favorite destinations around the world. 
 ```
 
-# by Suraj , Utkarsh and Amanullah
+### by Suraj , Utkarsh and Amanullah
 
 <br/>
 
