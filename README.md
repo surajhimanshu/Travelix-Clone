@@ -15,7 +15,7 @@ Compare airline flight tickets flying to your favorite destinations around the w
 - If you are interested in contributing to this project feel free to do so.
 
 
-### 🏠 [Homepage](.images/index.PNG)
+### 🏠 [Homepage](images/index.PNG)
 
 ### ✨ [Demo](https://amanullah21.github.io/Travelix-Clone/)
 
