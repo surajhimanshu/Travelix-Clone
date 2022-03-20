@@ -66,7 +66,10 @@ just clone it and start using
 
 ## Features ✨
 
-1. Responsive for mobile,tablet, laptop screen sizes
+<ul>
+	<li>Responsive for mobile,tablet, latop screen sizes</li>
+ 	<li>Automatic and manual Slider</li>
+</ul>
 
 
 ## Contributers
