@@ -63,6 +63,12 @@ just clone it and start using
 <img src="images/contact.PNG">
 <br>
 
+
+## Features ✨
+
+1. Responsive for mobile,tablet, laptop screen sizes
+
+
 ## Contributers
 
  👤 **MD Amanullah**
